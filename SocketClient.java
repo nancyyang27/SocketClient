@@ -32,8 +32,6 @@ public class SocketClient {
         }
     }
 }
-![Screenshot](https://github.com/github/nancyyang27/7D5CBA04-CC73-487C-B025-1CA16B7A2291_4_5005_c.jpeg)
-
 
 
 
